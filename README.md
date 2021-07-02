@@ -2,7 +2,7 @@
 I’m DoubleCookies — person who loves programming, eating cookies, check statistics and other things!
 
 ### Skills
-- 3 years of work experience;
+- 4 years of work experience;
 - Mostly Java and Java frameworks (Spring Boot); also things for testing (Junit, Mockito);
 - Have some experience with JS and TS and frameworks (React);
 - Also studied C# and *scary* things like C++ and ASM but almost don't use it.
