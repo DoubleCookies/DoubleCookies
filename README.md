@@ -2,7 +2,7 @@
 DoubleCookies here — person who loves programming, eating cookies, check statistics and other things!
 
 ### Skills
-- Mostly know Java and Java frameworks (Spring Boot); also things for testing (Junit, Mockito);
+- Have a lot of experience with Java and Spring; for testing used some libraries (Junit, Mockito);
 - Have some experience with JS, TS and frameworks (React);
 - Also studied C# and *scary* things like C++ and ASM but almost don't use it.
 
@@ -13,4 +13,4 @@ DoubleCookies here — person who loves programming, eating cookies, check stati
 
 ### Future plans
 - Improving existing repos (and myself);
-- Create some new projects, preferably fun and helpful;
+- Create some new projects, preferably both fun and helpful.
