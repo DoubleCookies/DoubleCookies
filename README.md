@@ -1,9 +1,9 @@
 ## Hello there! 👋
-DoubleCookies here — person who loves programming, eating cookies, check statistics and other things!
+My name is Igor — and I like programming, eating cookies, checking statistics and other things!
 
 ### Skills
-- Have a lot of experience with Java and Spring; for testing used some libraries (Junit, Mockito);
-- Have some experience with JS, TS and frameworks (React);
+- Have about 5 years of experience with Java, Spring and some testing tools like Junit and Mockito;
+- Have some experience with JS, TS and React;
 - Also studied C# and *scary* things like C++ and ASM but almost don't use it.
 
 ### What I'm working on GitHub
