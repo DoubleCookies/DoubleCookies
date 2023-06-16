@@ -2,8 +2,8 @@
 My name is Igor — and I like programming, eating cookies, checking statistics and other things!
 
 ### Skills
-- Have almost 6 years of experience with Java, Spring and some testing tools like Junit and Mockito;
-- Have about 3 years of experience with frontend technologies like JS, TS and React;
+- Have 6 years of experience with Java, Spring and some testing tools like Junit and Mockito;
+- Have about 4 years of experience with frontend technologies like JS, TS and React;
 - Also studied C# and *scary* things like C++ and ASM but almost don't use it.
 
 ### What I'm working on GitHub
